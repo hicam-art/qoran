@@ -28,11 +28,11 @@ background-color: rgba(245, 245, 220, 0.452);
     height: inherit;
 }
 .sora{
-    font-size: 7vw;
+    font-size: 6vw;
     overflow: scroll;
     margin-top: 2vh;
     width: 90%;
-    height: 10vh;
+    height: 13vh;
 
 }
 .hh1{
@@ -44,7 +44,7 @@ header{
     filter: drop-shadow(0px 0px 5px black);
     width: 90%;
     height: 45lvh;
-    background-color: rgba(255, 255, 255, 0.493); 
+    background-color: #ffffff5e; 
 border-radius: 5px;
 margin-top: 2vh;
 }

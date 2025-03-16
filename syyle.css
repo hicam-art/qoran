@@ -1,4 +1,6 @@
 .container{
+    padding: 0;
+    margin: 0;
 overflow: scroll;
 width: 100%;
 height:100vh;
@@ -19,38 +21,46 @@ background-color: rgba(245, 245, 220, 0.452);
 
 .bis{
     width:80%;
+    height:10vh;
 }
 .bis img{
     width: inherit;
+    height: inherit;
 }
 .sora{
- 
+    font-size: 7vw;
     overflow: scroll;
     margin-top: 2vh;
     width: 90%;
     height: 10vh;
 
 }
+.hh1{
+
+    font-size: 5vw;
+}
 header{
- 
+ padding: 0;
     filter: drop-shadow(0px 0px 5px black);
     width: 90%;
-    height: 30vh;
+    height: 45lvh;
     background-color: rgba(255, 255, 255, 0.493); 
 border-radius: 5px;
 margin-top: 2vh;
 }
 .audi{
+
+    position: relative;
     filter: drop-shadow(0px 0px 5px black);
     border-radius: 5px;
-    margin-top: 2vh;
+    margin-top: 7vh;
     width: 90%;
     height: 5vh;
-    background-color: rgba(233, 215, 191, 0.158);
+    background-color: rgba(131, 116, 116, 0.356);
 
 }
 .audi audio{
 
     width: inherit;
-    height: 80%;
+    height:inherit;
 }
